@@ -24,13 +24,6 @@
             <pre><code>npm install</code></pre></li>
         <li><strong>Start the microservices:</strong>
             <pre><code>docker-compose up</code></pre></li>
-        <li><strong>Access the services:</strong>
-            <ul>
-                <li>API Gateway: <a href="http://localhost:3000">http://localhost:3000</a></li>
-                <li>Users Microservice: <a href="http://localhost:3001">http://localhost:3001</a></li>
-                <li>Payments Microservice: <a href="http://localhost:3002">http://localhost:3002</a></li>
-            </ul>
-        </li>
     </ol>
     <h2>Structure</h2>
     <p>The repository structure is organized as follows:</p>
