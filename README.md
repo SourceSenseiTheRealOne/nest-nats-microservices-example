@@ -19,10 +19,8 @@
             <pre><code>git clone https://github.com/your-username/microservices-template.git</code></pre></li>
         <li><strong>Navigate to the project directory:</strong>
             <pre><code>cd microservices-template</code></pre></li>
-        <li><strong>Install dependencies:</strong>
-            <pre><code>npm install</code></pre></li>
         <li><strong>Start the microservices:</strong>
-            <pre><code>docker-compose up</code></pre></li>
+            <pre><code>docker-compose up --build</code></pre></li>
     </ol>
     <h2>Structure</h2>
     <p>The repository structure is organized as follows:</p>
