@@ -16,7 +16,7 @@
     <h2>Getting Started</h2>
     <ol>
         <li><strong>Clone the repository:</strong>
-            <pre><code>git clone https://github.com/your-username/microservices-template.git</code></pre></li>
+            <pre><code>git clone https://github.com/SourceSenseiTheRealOne/nest-nats-microservices-example</code></pre></li>
         <li><strong>Navigate to the project directory:</strong>
             <pre><code>cd microservices-template</code></pre></li>
         <li><strong>Start the microservices:</strong>
