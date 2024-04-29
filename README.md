@@ -18,7 +18,7 @@
         <li><strong>Clone the repository:</strong>
             <pre><code>git clone https://github.com/SourceSenseiTheRealOne/nest-nats-microservices-example</code></pre></li>
         <li><strong>Navigate to the project directory:</strong>
-            <pre><code>cd microservices-template</code></pre></li>
+            <pre><code>cd nest-nats-microservices-example</code></pre></li>
         <li><strong>Start the microservices:</strong>
             <pre><code>docker-compose up --build</code></pre></li>
     </ol>
