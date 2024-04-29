@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Microservices Template with Nest.js, NATS, and Docker</title>
 </head>
 <body>
     <h1>Microservices Template with Nest.js, NATS, and Docker</h1>
